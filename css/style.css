@@ -884,3 +884,7 @@ body {
 		margin-left: 0;
 	}
 }
+
+.slider_bg > div > div > div > h2, .slider_bg > div > div > div > p, .slider_bg > div > div > div > h3 {
+	color: #ffffff;
+}
